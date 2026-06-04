@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/iverson_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iverson_dev?logo=twitter&style=for-the-badge" alt="iverson_dev" /></a> </p>
 
-- 🔭 I’m currently working on [MTG API](https://github.com/Vince-maple-byte/MTG-API)
+- 🔭 I’m currently working on [MTG API](https://github.com/Vince-maple-byte/KeyData)
 
-- 🌱 I’m currently learning **PHP, Assembly Language, and C++**
+- 🌱 I’m currently learning **Go, Assembly Language, and C++**
 
-- 👯 I’m looking to collaborate on **Anything related to Java or Typescript**
+- 👯 I’m looking to collaborate on **Anything related to Java, Typescript, or Go**
 
-- 💬 Ask me about **Java, Springboot, React, Typescript**
+- 💬 Ask me about **Java, Springboot, React, Typescript, Go**
 
 - 📫 How to reach me **Send me a dm on twitter @iverson_dev**
 
