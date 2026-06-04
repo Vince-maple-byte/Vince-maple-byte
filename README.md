@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/iverson_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iverson_dev?logo=twitter&style=for-the-badge" alt="iverson_dev" /></a> </p>
 
-- 🔭 I’m currently working on [MTG API](https://github.com/Vince-maple-byte/KeyData)
+- 🔭 I’m currently working on [KeyData](https://github.com/Vince-maple-byte/KeyData)
 
 - 🌱 I’m currently learning **Go, Assembly Language, and C++**
 
